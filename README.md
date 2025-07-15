@@ -1,5 +1,5 @@
 # Lume-Broser
-If you want to see the actual contents of the project click (me)[https://github.com/HahaAhhDev/Lume-Browser-contents]
+If you want to see the actual contents of the project click [me](https://github.com/HahaAhhDev/Lume-Browser-contents)
 
 This is the repo where the README.md is located.
 
